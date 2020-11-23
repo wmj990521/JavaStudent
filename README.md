@@ -23,15 +23,15 @@
 
 ## 三、实验过程
 1. 创建学生类Student  
-   学生有属性：姓名，班级，学号，性别，年龄，民族;   
-   要求setName(String name)方法将参数name的值赋值给name，要求getName()返回name的值；
-   要求setClas(String clas)方法将参数clas的值赋值给clas，要求getClas()返回clas的值；
-   要求setNumber(int number)方法将参数number的值赋值给number，要求getNumber()返回number的值；  
-   要求setSex(String sex)方法将参数sex的值赋值给sex，要求getSex()返回sex的值；  
-   要求setAge(int age)方法将参数age的值赋值给age，要求getAge()返回age的值；  
-   要求setNation(double nation)方法将参数nation的值赋值给nation，要求getNation()返回nation的值；  
-   创建Student类的构造方法，实例化对象;    
-   创建toString()方法，返回学生的信息;  
+   学生有属性：姓名，班级，学号，性别，年龄，民族;     
+   要求setName(String name)方法将参数name的值赋值给name，要求getName()返回name的值；  
+   要求setClas(String clas)方法将参数clas的值赋值给clas，要求getClas()返回clas的值；  
+   要求setNumber(int number)方法将参数number的值赋值给number，要求getNumber()返回number的值；    
+   要求setSex(String sex)方法将参数sex的值赋值给sex，要求getSex()返回sex的值；   
+   要求setAge(int age)方法将参数age的值赋值给age，要求getAge()返回age的值；    
+   要求setNation(double nation)方法将参数nation的值赋值给nation，要求getNation()返回nation的值；     
+   创建Student类的构造方法，实例化对象;      
+   创建toString()方法，返回学生的信息;    
 2. 创建主类Test类
   * 使用Scanner类实现运行时交互式输入，输入姓名，班级，学号，性别，年龄，民族；
   * 创建Student类对象，将输入的学生信息返回到学生类对象中；
@@ -124,6 +124,9 @@ public static int GetTime(String source,String key){
 ## 五、实验结果
   运行成功，输出结果：    
   ![img](https://p.qlogo.cn/qqmail_head/PiajxSqBRaEKWNg0BcGz3pTg6yE2DqrvMSicB3Xa7tCDfK9fAZ15XHdjgHpcCgxNiczxqdygw9H6kM/0)
-  
+  文本文件B：
+  ![img](https://p.qlogo.cn/qqmail_head/TUEqibv7an4p8NMmO6ASG2Dcj3dWKSqibCA48gfKBGKHSbM9gvxxGFwolJTyQRicjK9/0)
+  文本文件A：
+  ![img](https://p.qlogo.cn/qqmail_head/TUEqibv7an4p8NMmO6ASG2Dcj3dWKSqibCA48gfKBGKHQqSTCehUMOKmG54yZ3g8Gm/0)
 ## 六、实验感想
   学习了Java中抽象类和抽象方法的定义及实现，掌握了Java中接口的定义及接口的实现方法，学会了自定义异常的使用方法，学习使用了scanner类。
