@@ -129,4 +129,4 @@ public static int GetTime(String source,String key){
   文本文件A：
   ![img](https://p.qlogo.cn/qqmail_head/TUEqibv7an4p8NMmO6ASG2Dcj3dWKSqibCA48gfKBGKHQqSTCehUMOKmG54yZ3g8Gm/0)
 ## 六、实验感想
-  学习了Java中抽象类和抽象方法的定义及实现，掌握了Java中接口的定义及接口的实现方法，学会了自定义异常的使用方法，学习使用了scanner类。
+  掌握了字符串String及其length（）、toString（）等方法的使用以及字符串数组的定义及使用，掌握了scanner类的使用，学习了正则表达式的使用，掌握文件的读取/写入方法，例如File类，文件字节输入输出流，文件字符输入输出流，缓冲流等，掌握了异常的使用。
